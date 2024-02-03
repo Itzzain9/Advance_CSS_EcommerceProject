@@ -214,3 +214,19 @@ ul li a{
     margin-top: 33px;
     cursor: pointer;
 }
+
+.detailText{
+    font-size: 20px;
+    margin-top: 33px;
+}
+.detailText i{
+    color: orange;
+    font-size: 22px;
+    margin-top: 22px;
+}
+.detailText a{
+    padding: 8px 22px;
+    background-color: rgb(250, 29, 66);
+    color: white;
+    text-decoration: none;
+}
