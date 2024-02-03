@@ -178,3 +178,39 @@ ul li a{
     color: white;
     text-decoration: none;
 }
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 66px;
+    margin-top: 66px;
+    background-color: rgb(250, 140, 89);
+}
+.text p{
+    margin-top: 12px;
+}
+.cardDetail{
+    display: flex;
+    padding: 33px;
+    gap: 22px;
+}
+.cardDetail img{
+    width: 400px;
+}
+.cardDetail p{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.cardDetail h3{
+    margin-top: 32px;
+}
+.cardDetail button{
+    width: 140px;
+    height: 40px;
+    background-color: rgb(255, 145, 0);
+    color: white;
+    font-size: 20px;
+    border: none;
+    margin-top: 33px;
+    cursor: pointer;
+}
