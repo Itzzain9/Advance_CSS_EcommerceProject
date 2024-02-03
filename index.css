@@ -38,3 +38,21 @@ ul li a{
     display: flex;
     align-items: center;
 }
+
+.searchBar input{
+    width: 350px;
+    padding: 8px;
+    border: none;
+    outline: none;
+    background-color: #f1f1f1;
+    font-size: 18px;
+}
+.searchBar i{
+    margin-left: -27px;
+    font-size: 18px;
+}
+.icons{
+    display: flex;
+    gap: 30px;
+    font-size: 24px;
+}
