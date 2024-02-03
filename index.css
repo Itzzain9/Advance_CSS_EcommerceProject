@@ -146,3 +146,19 @@ ul li a{
     height: 300px;
     margin-top: 50px;
 }
+
+.blogs{
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+}
+.blogCard{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    gap: 19px;
+    background-color: rgb(7, 7, 7);
+    color: white;
+    padding: 12px;
+}
