@@ -67,3 +67,13 @@ ul li a{
     background-color: rgb(248, 166, 128);
     padding:15px ;
 }
+
+.mainText{
+    margin-top: 74px;
+}
+.mainText h1{
+    font-size: 70px;
+}
+.mainText p{
+    margin-top: 22px;
+}
