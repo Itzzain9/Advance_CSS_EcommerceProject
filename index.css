@@ -98,3 +98,25 @@ ul li a{
     text-align: center;
     padding: 90px;
 }
+
+.WomenCard{
+    display: flex;
+    justify-content: center;
+
+}
+.menCard{
+    display: flex;
+    justify-content: center;
+
+}
+.card{
+    width: 300px;
+    background-color: #fff;
+    margin-inline: 22px;
+    margin-top: 24px;
+}
+.card img{
+    width: 100%;
+    height: 300px;
+}
+
